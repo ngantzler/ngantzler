@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm currently working on my Ph.D. in Physics at Oregon State University under Dr. Cory Simon. Most of my contributions can be found at (The Simon Ensemble)[https://github.com/SimonEnsemble] GitHub page or our group web page (here)[https://simonensemble.github.io/].
+
+My work involves the application of molecular models and simulations along with a variety of compuational and analytical techniques to investigate Metal-Organic Frameworks and their applications. 
 
 <!--
 **ngantzler/ngantzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
